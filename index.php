@@ -1,3 +1,3 @@
 <?php
 
-echo "hello kakak ahyar ganteng kan ?? ";
+echo "Wendy Pondaag - 52019036 - Teknik Informatika ";
